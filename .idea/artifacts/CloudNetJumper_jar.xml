@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="CloudNetJumper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CloudNetJumper_jar</output-path>
+    <root id="root">
+      <element id="archive" name="CloudNetJumper.jar">
+        <element id="module-output" name="CloudNetJumper" />
+      </element>
+    </root>
+  </artifact>
+</component>
