@@ -1,3 +1,0 @@
-name: CloudNetJumper
-version: '${project.version}'
-main: me.pixelgames.pixelcrack3r.cloudnetjumper.CloudNetJumper
